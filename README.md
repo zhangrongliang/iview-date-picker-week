@@ -3,6 +3,12 @@
 ## 使用方法
 
 ```js
+1.
+import Vue from 'vue'
+import DatePickerWeeks from 'DatePickerWeeks'
+Vue.component('date-picker-weeks', DatePickerWeeks)
+
+2.
 <template lang="html">
 <div>
     <date-picker-weeks :value="value3" confirm multiple show-week-numbers placeholder="请选择第几周" type="date" style="width:550px;" @on-change="value3 = $event"></date-picker-weeks>
