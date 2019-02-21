@@ -29,7 +29,7 @@ export default {
 ```  
 更多参考[DatePickerWeeks](https://www.iviewui.com/components/date-picker)
 
-##1.0.0 效果
+##1.0.4 效果
 ![iview.png](https://github.com/zhangrongliang/iview-date-picker-weeks/blob/master/iview.png?raw=true)
 ##TODO
 1. 周选中高亮
