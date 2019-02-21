@@ -612,7 +612,7 @@ export default {
             }
         },
         onPick(dates, visible = false, type) {
-            console.log(dates)
+
             // 只做周选择器控制，懒得做通用的
             this.internalValue = []
             // 获取当年第一天
