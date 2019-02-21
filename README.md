@@ -7,7 +7,7 @@
 1.
 import Vue from 'vue'
 import iviewDatePickerWeeks from 'iview-date-picker-weeks'
-Vue.component('iview-date-picker-weeks', DatePickerWeeks)
+Vue.component('iview-date-picker-weeks', iviewDatePickerWeeks)
 
 2.
 <template lang="html">
