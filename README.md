@@ -1,17 +1,18 @@
-# iview-DatePickerWeeks
+# iview-date-picker-weeks
+基于iview,拓展日期控件选择第几周，返回选中周的7天日期数据，array。
 日期控件拓展，选择周，返回周7天数据。
 ## 使用方法
 
 ```js
 1.
 import Vue from 'vue'
-import DatePickerWeeks from 'DatePickerWeeks'
-Vue.component('date-picker-weeks', DatePickerWeeks)
+import iviewDatePickerWeeks from 'iview-date-picker-weeks'
+Vue.component('iview-date-picker-weeks', DatePickerWeeks)
 
 2.
 <template lang="html">
 <div>
-    <date-picker-weeks :value="value3" confirm multiple show-week-numbers placeholder="请选择第几周" type="date" style="width:550px;" @on-change="value3 = $event"></date-picker-weeks>
+    <iview-date-picker-weeks :value="value3" confirm multiple show-week-numbers placeholder="请选择第几周" type="date" style="width:550px;" @on-change="value3 = $event"></iview-date-picker-weeks>
 </div>
 </template>
 
