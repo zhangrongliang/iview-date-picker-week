@@ -1,0 +1,19 @@
+{
+  "name": "datepickerweeks",
+  "version": "1.0.0",
+  "description": "日期控件选择第几周，返回选中周的7天日期数据，array。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhangrongliang/iview-DatePickerWeeks.git"
+  },
+  "keywords": [
+    "iview",
+    "日期控件拓展，选择周，返回周7天数据。"
+  ],
+  "author": "zhangrongliang@aliyun.com",
+  "license": "ISC"
+}
