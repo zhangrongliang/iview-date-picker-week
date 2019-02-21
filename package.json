@@ -1,6 +1,6 @@
 {
-  "name": "iview-date-picker-weeks",
-  "version": "1.0.4",
+  "name": "iview-date-picker-week",
+  "version": "1.0.0",
   "description": "基于iview,拓展日期控件选择第几周，返回选中周的7天日期数据，array。",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:zhangrongliang/iview-date-picker-weeks.git"
+    "url": "git@github.com:zhangrongliang/iview-date-picker-week.git"
   },
   "keywords": [
     "iview",
